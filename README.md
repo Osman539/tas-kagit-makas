@@ -14,6 +14,7 @@ Python ile geliştirilmiş, terminal üzerinden oynanan klasik Taş-Kağıt-Maka
 
 ## 🚀 Kurulum ve Çalıştırma
 
+
 Bu projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 1.  Repoyu klonlayın:
