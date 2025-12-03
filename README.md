@@ -19,7 +19,7 @@ Bu projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izle
 
 1.  Repoyu klonlayın:
     ```bash
-    git clone [https://github.com/Osman539/tas-kagit-makas.git](https://github.com/Osman539/tas-kagit-makas.git)
+    git clone [https://github.com/osmanmemisdev/tas-kagit-makas.git](https://github.com/osmanmemisdev/tas-kagit-makas.git)
     ```
 2.  Proje dizinine gidin:
     ```bash
